@@ -1,0 +1,31 @@
+body{
+    background-color: green;
+    color: #fff;
+}
+
+header{
+    background-color: gray;
+}
+
+main{
+    color:#fff;
+}
+.festival{
+    color:deeppink;
+    font-style: italic;
+    padding: 20px;
+}
+.container{
+    color: blue;
+    font-style: italic;
+    padding: 20px;
+}
+
+@media only screen and (min-width:650px) {
+    body {
+        background-color: white;
+        color: orange;
+        font-family:'Times New Roman', Times, serif;
+    }
+    
+}
